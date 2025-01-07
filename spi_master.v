@@ -1,4 +1,4 @@
-module spi_master_ayush(
+module spi_master(
 
  input wire clk,
 
